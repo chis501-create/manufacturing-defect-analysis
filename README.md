@@ -146,7 +146,7 @@ Power BI를 활용하여 다음 내용을 시각화하였습니다.
 ## 프로젝트 구조
 
 ```
-manufacturing-quality-dashboard
+manufacturing-defect-dashboard
 │
 ├── Manufacturing.ipynb
 ├── production.csv
