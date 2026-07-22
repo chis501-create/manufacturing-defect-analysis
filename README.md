@@ -137,18 +137,16 @@ Power BI를 활용하여 다음 내용을 시각화하였습니다.
 
 ### Dashboard
 
-> `images/dashboard.png` 파일을 업로드한 후 아래 이미지가 표시됩니다.
-
-```markdown
+아래는 Power BI 대시보드입니다.
 ![Dashboard](images/dashboard.png)
-```
+
 
 ---
 
 ## 프로젝트 구조
 
 ```
-manufacturing-defect-dashboard
+manufacturing-quality-dashboard
 │
 ├── Manufacturing.ipynb
 ├── production.csv
