@@ -1,0 +1,6 @@
+﻿product_id,product_name,product_type,standard_weight,target_cycle_time
+PR01,모터,A,2.5,25
+PR02,기어,A,1.8,30
+PR03,베어링,B,0.7,18
+PR04,와이퍼,B,2.1,35
+PR05,에어컨필터,C,1.8,20

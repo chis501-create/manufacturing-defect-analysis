@@ -1,0 +1,6 @@
+﻿equipment_id,equipment_name,install_year,status,daily_capacity,maintenance_cycle,location
+M01,프레스 1호기,2023,가동,1800,30,A라인
+M02,프레스 2호기,2022,가동,1700,30,A라인
+M03,프레스 3호기,2017,점검,1500,15,B라인
+M04,프레스 4호기,2020,가동,1600,20,B라인
+M05,프레스 5호기,2019,가동,1650,20,C라인
